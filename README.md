@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ihsan Lisanul</h1>
 <h3 align="center">A passionate Web dev and Robotics engineers</h3>
-<img src="![image](https://user-images.githubusercontent.com/77877409/228731147-be4e38d8-7878-4c38-a105-a7d2e2bfb02a.png)" float="right" width="400px" alt="coding">
+<img src="https://user-images.githubusercontent.com/77877409/228732094-fcdce152-0fd9-4471-b805-9df7811fcf20.png
+" float="right" width="400px" alt="coding">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kofengmti&label=Profile%20views&color=0e75b6&style=flat" alt="kofengmti" /> </p>
